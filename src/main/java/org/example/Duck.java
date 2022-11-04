@@ -1,19 +1,14 @@
 package org.example;
 
 public abstract class Duck implements ISwim {
-    private final String color;
-    private final int wingsnumber;
 
-    protected Duck(String color, int wingsnumber) {
-        this.color = color;
-        this.wingsnumber = wingsnumber;
+    public void fly(){
+        System.out.println("Fly me to the moon");
     }
-
-    public String getColor() {
-        return color;
+    public void quack(){
+        System.out.print("Coin-");
     }
-
-    public int getWingsnumber() {
-        return wingsnumber;
+    public void display(){
+        System.out.println("I'm a duck");
     }
 }
