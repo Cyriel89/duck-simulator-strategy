@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fac8756-9915-447d-811b-057290c39a30" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuacklikeMJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Quacklikeaboss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IFlyBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IFlyBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IQuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IQuackBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DuckContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Flywithrocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Flywithrocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Flywithwings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Flywithwings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/QuacklikeMJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/QuacklikeMJ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Quacklikeaboss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Quacklikeaboss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RedheadDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RedheadDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swimlikeabrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swimlikeabrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Swimlikeaswan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Swimlikeaswan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667551754193</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit">
+      <created>1667551900050</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667551900050</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

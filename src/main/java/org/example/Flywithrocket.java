@@ -3,6 +3,6 @@ package org.example;
 public class Flywithrocket implements IFlyBehavior{
     @Override
     public void flybehavior() {
-        IFlyBehavior.super.flybehavior();
+        System.out.println("I'm a rocket duck !");
     }
 }

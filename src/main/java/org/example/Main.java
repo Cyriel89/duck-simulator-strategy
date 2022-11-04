@@ -2,10 +2,11 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        DuckContext d = new DuckContext((ISwimBehavior) new MallardDuck());
-        d.swim();
+       Duck mallard = new MallardDuck();
+       Duck red = new RedheadDuck();
 
-        d = new DuckContext(new RedheadDuck());
-        d.swim();
+       mallard.display();
+       red.fly();
+       red.display();
     }
 }
