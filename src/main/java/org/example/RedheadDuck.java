@@ -4,7 +4,7 @@ public class RedheadDuck extends Duck{
 
     @Override
     public void swim() {
-
+        System.out.println("I swim like a brick");
     }
 
     @Override

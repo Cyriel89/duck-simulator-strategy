@@ -3,7 +3,7 @@ package org.example;
 public class MallardDuck extends Duck{
     @Override
     public void swim() {
-
+        System.out.println("I swim like a swan");
     }
 
     @Override
