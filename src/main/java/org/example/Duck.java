@@ -1,14 +1,16 @@
 package org.example;
 
-public abstract class Duck implements ISwim {
+public abstract class Duck {
 
+    private ISwimBehavior swimBehavior;
+    private IFlyBehavior flyBehavior;
+    private IQuackBehavior quackBehavior;
+    public void swim() {
+
+    }
     public void fly(){
-        System.out.println("Fly me to the moon");
     }
     public void quack(){
-        System.out.print("Coin-");
     }
-    public void display(){
-        System.out.println("I'm a duck");
-    }
+    public abstract void display();
 }

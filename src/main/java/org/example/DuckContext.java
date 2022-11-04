@@ -1,13 +1,13 @@
 package org.example;
 
 public class DuckContext {
-    private ISwim duck;
+    private ISwimBehavior duck;
 
-    public DuckContext(ISwim duck) {
+    public DuckContext(ISwimBehavior duck) {
         this.duck = duck;
     }
 
     public void swim(){
-        this.duck.swim();
+        this.duck.swimbehavior();
     }
 }
